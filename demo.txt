@@ -1,6 +1,10 @@
 demo _12345
+<<<<<<< HEAD
 
 
 My first turorial on 11-12-2024
 
 so these can be used for my carrer purpose. 
+=======
+kilometers 
+>>>>>>> 0b92a3949811db6ab903415da9bb63eff14656e6
